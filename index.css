@@ -1,5 +1,9 @@
 h1{
     font-size: 20px;
     text-align: center;
+    font-family: monospace;
     background-color: rgb(253, 70, 70);
+}
+body{
+    background-color:rgb(0, 0, 39);
 }
